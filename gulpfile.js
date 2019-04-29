@@ -1,8 +1,8 @@
 var gulp       = require('gulp'),
     concat     = require('gulp-concat'),
     ignore     = require('gulp-ignore'),
-	insert     = require('gulp-insert'),
-	sourcemaps = require('gulp-sourcemaps'),
+    insert     = require('gulp-insert'),
+    sourcemaps = require('gulp-sourcemaps'),
     uglify     = require('gulp-uglify'),
     fs         = require('fs');
 
